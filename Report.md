@@ -1,6 +1,6 @@
 Sales Report
 ================
-26th Sept 2016
+7th October
 
 Sections
 ========
@@ -62,7 +62,4 @@ Section 4 : Insights
 
 -   Sales Velocity is `14.64` days
 
-Data Quality of 383 Contacts
-============================
-
-<img src="Test_files/figure-markdown_github/unnamed-chunk-16-1.png" width="800" height="800" />
+<!-- Data Quality of 383 Contacts -->
